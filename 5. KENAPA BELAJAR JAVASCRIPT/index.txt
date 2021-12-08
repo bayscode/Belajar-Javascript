@@ -1,0 +1,36 @@
+Alasan kenapa belajar javascript?
+---------------------------------
+^ Gratis
+^ Tidak perlu instalasi
+^ Hanya butuh web browser
+-------------------------
+Untyped 
+2021-12-08-14-04-27.png
+
+-----------------------
+Javascript bisa apa?
+- Client-side web development => Membuat atau mendukung  pembuatan web dari sisi client
+^ Native Javascript/Vanila Javascript
+^ JQuery (Framework)
+^ AngularJS, React, Ember, Backbone
+^ dll.
+
+- Server-side web development => Pembangunan aplikasi yang berjalan di sisi server atau Backend Development
+^ NodeJS
+^ ExpressJS
+
+- Browser Extension/Add-On
+
+- Dekstop Applications
+^ Electron
+^ AppJS
+
+- Mobile App Development
+^ JQuery Mobile
+^ Cordova/PhoneGap
+
+- IoT & Robotics
+^ CyclonJS
+^ Johnny-Five
+
+- JSON => Skema atau format data Javascript Object Notation yang digunakan untuk pertukaran data 
