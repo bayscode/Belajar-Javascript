@@ -1,0 +1,16 @@
+Tahap Pertama Compiler
+-----------------------
+2021-12-08-13-19-58.png
+Tahap Kedua Compiler
+-----------------------
+2021-12-08-13-21-49.png
+
+Tahap Pertama Interpreter
+2021-12-08-13-23-13.png
+-----------------------
+Tahap Kedua Interpreter
+2021-12-08-13-24-19.png
+
+Kelebihan dan Kekurangan Compiler dan Interpreter
+2021-12-08-13-27-38.png
+
