@@ -1,0 +1,7 @@
+2021-12-08-13-01-39.png
+-----------------------
+08 Desember 2021
+-
+1. Bagaimana menulis sebuah source code?
+2. Bagaimana source code dikonversi ke bahasa mesin
+3. Bagaimana mengeksekusi source code
