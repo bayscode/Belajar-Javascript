@@ -23,4 +23,4 @@ Ketentuan
 ^ Cara kita untuk memberikan instruksi yang simpel dan terstruktur pada komputer
 ^ Instruksi yang kita berikan harus benar dan masuk akal
 ^ Instruksi yang kita berikan harus sesuai dengan aturan pada bahasa pemrograman tertentu.
-------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
