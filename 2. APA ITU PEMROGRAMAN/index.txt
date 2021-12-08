@@ -1,0 +1,26 @@
+08 Desember 2021
+link : https://www.youtube.com/watch?v=Ncrlg9kTC6U&list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w&index=7
+--------------------------------------------------
+Program adalah kumpulan atau serangkaian instruksi.
+--------------------------------------------------
+Program adalah urutan instruksi terstruktur, yang dirancang agar komputer dapat berperilaku sesuai dengan ketentuan, dengan tujuan untuk menyelesaikan sebuah pekerjaan.
+--------------------------------------------------
+Instruksi untuk komputer
+^ Memberi perintah pada komputer
+^ Melalui bahasa pemrograman
+^ Memecah tugas jadi instruksi sederhana
+----------------------------------------
+Perilaku komputer 
+^ komputer tidak begitu pintar
+^ Tapi, penurut
+^ Tidak kenal lelah
+" Berikanlah instruksi yang benar
+---------------------------------
+Statement
+|=> Perintah untuk komputer dalam bahasa pemrograman
+----------------------------------------------------
+Ketentuan
+^ Cara kita untuk memberikan instruksi yang simpel dan terstruktur pada komputer
+^ Instruksi yang kita berikan harus benar dan masuk akal
+^ Instruksi yang kita berikan harus sesuai dengan aturan pada bahasa pemrograman tertentu.
+------------------------------------------------------------------------------------------
