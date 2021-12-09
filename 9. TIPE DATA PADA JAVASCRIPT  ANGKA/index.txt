@@ -1,0 +1,47 @@
+Tipe Data Number(Angka)
+-----------------------
+
+*di javascript itu tidak ada yang namanya integer(bilanga bulat) => angka yang bisa positif,negatif,nol. yang ada hanyalah floating point(bilangan pecahan).
+----------------------------------------------
+
+- ukuran angka yang bisa ditampung oleh javascript adalah 64bit => 2^64 / 18x10^18 => 18x1000 000 000 000 000 000 => 18446744073709551616
+|=> Tapi angka ini tidak bisa dipakai semua, ada beberapa jenis angka yang dapat kita simpan didalam javascript.
+
+Angka
+-----
+^ Angka tanpa desimal = 10,1500,123456
+|=> Sebetulnya dibelakang layar yang diproses adalah bilangan pecahan, tapi tingkat akurasi sampai 15 digit.
+
+^ Angka dengan desimal(bilangan pecahan)
+|=> 3.14, 0.5, 100.00
+
+* Koma(,) dijavascript diganti dengan titik(.)
+|=> kita bisa menyimpan 17 digit dibelakang koma(,)
+
+^ bisa menyimpan bilangan yang sangat besar atau sangat kecil dengan menggunakan Eksponen
+- 123e5 // 12300000
+-123e-5 // 0.00123
+
+^ Bilangan negatif
+-12 , -15, dst...
+-----------------
+
+- Urutan penggunaan bit 
+^ 1 bit digunakan untuk penanda jika bilangan itu negatif
+^ 11 bit digunakan untuk exponent
+^ dan sisanya 52bit digunakan untuk angka sebenarnya, termasuk untuk menyimpan titik untuk pecahan.
+
+* Jangan pernah mengawali sebuah angka javascript itu dengan angka 0. Kenapa? karena ini juga kadang hasilnya engga sesuai dengan yang kita inginkan.
+---------------------------------------
+
+Contoh 022 // 18 (ketik di console)
+kok bisa?
+karena dengan kita menuliskan angka 0 diawal angka kita, bilangan kita akan dianggap sebagai bilangan oktal => 0 - 7(basis 8).
+---------------
+
+- Sama seperti mengawali angka dengan 0x akan dianggap sebagi bilangan hexadesimal basis 16 => (0 - 9 | a - f)
+
+* dijavascript ada angka spesial
+^ Infinity = 2/0 
+^ -Infinity = -2/0
+^ Nan(Not a number) = 0/0
