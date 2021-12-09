@@ -1,0 +1,23 @@
+bit = binary digit
+| => adalah satuan terkecil dari data yang ada di dalam komputer
+Nilai bit hanya 0 / 1
+---------------------
+Digit 1 itu terjadi ketika suatu komponen didalam komputer yang namanya transistor dialiri listrik, maka terjadilah bit 1, dan bit 0 terjadi ketika transistor tersebut tidak dialiri oleh listrik.
+seperti ON = 1, OFF = 0.
+
+Bilangan Desimal = 0 - 9
+|=> Satuan, Puluhan, Ratusan, Ribuan, dst ...
+---------------------------------------------
+
+Komputer sudah bisa membagi bit" tersebut kedalam beberapa potongan. potong"an tersebut dinamakan dengan nilai atau values.
+Tapi, meskipun nilai itu terbuat dari sekumpulan bit bisa aja nilai" itu memiliki peran yang berbeda, dan peran inilah yang nantinya kita sebut dengan Tipe Data/Data Type.
+-----------------------------------------------------------
+
+Javascript ada 6 tipe data :
+^ Number(Angka)
+^ String
+^ Boolean
+^ Object
+^ Function
+^ Undefined
+=> ini adalah peran bit" yanf ada di dalam komputer
