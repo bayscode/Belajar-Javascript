@@ -33,4 +33,4 @@ Javascript bisa apa?
 ^ CyclonJS
 ^ Johnny-Five
 
-- JSON => Skema atau format data Javascript Object Notation yang digunakan untuk pertukaran data 
+- JSON => Skema atau format data Javascript Object Notation yang digunakan untuk pertukaran data
