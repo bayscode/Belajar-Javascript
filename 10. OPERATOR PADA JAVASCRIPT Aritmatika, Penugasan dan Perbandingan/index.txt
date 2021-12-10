@@ -1,0 +1,38 @@
+Operator pada javascript
+\=> Aritmatika, Penugasan, dan Perbandingan
+" Operator dalam javascript adalah sebuah simbol yang digunakan untuk melakukan operasi.
+----------------------------------------------------------------------------------------
+^ Arimatika(Matematika)
+^ Penugasan
+^ Logika
+^ String
+^ Kondisional
+^ Typeof
+--------
+
+* Operator binary (Arimatika, Penugasan, Logika, String)
+-> Membutuhkan 2 operand
+=> Operand1 operator Operand2
+
+* Operator unary (Kondisional)
+-> Membutuhkan 1 operand
+=> Operand1 operator atau operator Operand1
+
+* Operator ternary
+-> Membutuhkan 3 operand
+------------------------
+
+^ Operator Aritmatika (Matematika)
+*,-,*,/,%(modulus/sisa bagi)
+
+* Urutan operasi matematika (Operator Precendence)
+-> Urutan KuKaBaTaKu [(),*,/,+,-]
+
+^ Operator Penugasan (Assignment)
+=, =, +=, -=, /=, %=
+
+^ Operator Perbandingan (Comparison)
+==, !=, ===, !==, <, >, <=, >=
+dan operator perbandingan ini nantinya akan menghasilkan sebuah nilai boolean -> true or false
+
+* === disebut dengan perbandingan strict atau operator identitas, tidak hanya membandingan nilai tapi juga membandingkan nilai tapi juga tipe data.
