@@ -1,0 +1,21 @@
+^ Operator Logika/Logical
+= digunakan untuk menentukan logika dari beberapa ekspresi yang kita gabungkan
+=> && = AND, || = OR, ! = NOT
+
+- Cara kerja evaluasi Operator logika
+=> Mengevaluasi ekspresi sebelah kiri operator kemudian mengevaluasi ekspresi sebelah kanan. hasil yang dikembalikan operator logika tergantung dari jenis operator tersebut.
+---------------------------------------------------------------------
+Keterangan :
+&& = Mengharuskan dua kondisi memenuhi syarat
+|| = Salah satu kondisi harus memenuhi syarat
+! = Apabila suatu kondisi tidak memiliki nilai atau isi, atau tidak sama(membalikan hasil boolean).
+
+^ Operator String +
+= dalam javascript tanda + memiliki dua fungsi yaitu jika operand nya angka maka dia akan menjadi operator(aritmatika), dan jika operandnya string maka dia akan berubah menjadi operator penggabung string.
+
+^ Operator Typeof
+= digunakan untuk mengetahui tipe data apa dari nilai yang kita masukkan ke dalamnya
+(typeof(tipedata))
+
+^ Operator Kondisional
+= digunakan untuk melakukan pengecekan pada sebuah kondisi dan menentukan nilai yang dihasilkan ketika kondisinya bernilai true or false.
