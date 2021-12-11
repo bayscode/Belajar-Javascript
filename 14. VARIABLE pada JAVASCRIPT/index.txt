@@ -1,0 +1,14 @@
+Variabel adalah sebuah tempat atau wadah yang memiliki nama, yang digunakan untuk menyimpan nilai.
+
+1. Deklarasi = mendaftarkan variabel ke dalam lingkup yang sesuai
+2. Inisialisasi = menyediakan memori untuk variabel
+3. Assignment = Menetapkan nilai yang spesifik ke dalam variabel
+
+var x; // Deklarasi dan Inisialisasi
+x = 20; // Assignment
+
+shorthand
+---------
+var nama = 'Iqbal',
+    kelas = '14',
+    lulus = '2023';
