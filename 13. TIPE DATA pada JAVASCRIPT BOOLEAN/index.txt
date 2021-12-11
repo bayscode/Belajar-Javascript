@@ -1,0 +1,8 @@
+Tipe data boolean
+-----------------
+=> Sebuah tipe data yang digunakan untuk merepresentasikan logika true atau false
+? di pemrograman boolean ini biasanya digunakan pada statement pengkondisian, untuk menentukan aksi yang berbeda dan mengatur alur kendali program.
+
+* Undefined = sebuah tipe yang dihasilkan ketika kita mendeklarasikan sebuah variabel tapi kita belum mendeklarasikan nilainya.
+
+* Null adalah nilai kosong yang bisa kita berikan pada sebuah variabel.
