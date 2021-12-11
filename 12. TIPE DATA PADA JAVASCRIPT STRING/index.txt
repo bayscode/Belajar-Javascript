@@ -1,0 +1,12 @@
+Tipe data String
+=> Digunakan untuk mempresentasikan data tekstual(plain text). untuk menuliskan string pada javascript yang perlu kita lakukan hanya membungkus nilai kita menggunakan tanda kutip " " atau ' '.
+
+Escape Character
+----------------
+berfungsi untuk menampilkan sebuah karakter yang diinterpretasikan dengan berbeda dalam sebuah bahasa pemrograman.
+------------
+
+Concatenation (Konkatenasi) +
+=> Penghubung 2 atau lebih string
+
+?.length = menghitung panjang string dan .length ini bisa disimpan ke dalam variabel.
