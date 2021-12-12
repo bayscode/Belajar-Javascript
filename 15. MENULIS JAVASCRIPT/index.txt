@@ -1,0 +1,10 @@
+Menulis Javascript
+------------------
+ada 2 cara menuliskan javascript dihalaman web.
+- Internal = langsung didalam tag script dihalaman didokumen website
+- Eksternal = membuat file terpisah untuk membuat javascript
+
+=> Pertama dibagian <head> biasanya ditulis setelah title
+=> Kedua didalam <body> diakhir sebelum tutup body
+
+Kalau kita ingin javascript menuliskan sesuatu didalam console itu nanti kita perlu menggunakan fungsi yang namanya console.log = gunanya untuk menuliskan sesuatu kedalam console di browser
