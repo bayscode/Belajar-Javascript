@@ -1,0 +1,15 @@
+Popup Box(dialog box)
+=> sebuah window kecil pada browser yang dapat kita munculkan sebagi alat interaksi yang digunakan agar user dapat berdialog dengan halaman web.
+ada 3 buah popupbox di javascript = alert,prompt,confirm
+
+Syntax alert :
+alert(' ');
+=> menampilkan pesan sederhana semacam peringatan
+----------
+Syntax prompt
+prompt(' ');
+=> menampilkan text yang perlu diisi
+------------
+Syntax confirm
+confirm(' ');
+=> menampilkan pesan ok dan cancel. digunakan untuk meminta konfirmasi dar user, fungsi confirm ini mengembalikkan nilai, boolean true or false.
