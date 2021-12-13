@@ -1,0 +1,10 @@
+Pengulangan
+-----------
+TABEL PENELUSURAN
+=> Sebuah tools yang cukup penting agar dapat memahami cara kerja program seperti apa.
+
+TABEL PENELUSURAN/ trace table atau dry-run test
+=> dimana ini nanti bisa mengetahui perubahan variabel yang ada di pengulangan.
+
+=> untuk membuat tabel penelusuran, cukup tuliskan nama" variabel yang nilainya ada kemungkinan berubah pada saat pengulangan.
+- variabel - kondisi terminasi - output
