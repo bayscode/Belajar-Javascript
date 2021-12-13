@@ -1,0 +1,10 @@
+While -> keyword
+syntax :  While(kondisi){ -> selama kondisi bernilai true
+            aksi -> maka lakukan aksi didalam blok {}
+          }
+
+Infinite loop/looping forever
+artinya loopingny harus berhenti
+ada 2 cara :
+1. dihentikan oleh user
+2. dihentikan oleh program
