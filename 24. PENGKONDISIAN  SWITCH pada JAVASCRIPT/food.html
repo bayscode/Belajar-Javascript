@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+
+  <script>
+    var nama = prompt('halo nama kamu siapa ?');
+    alert('salam kenal ya 😀 ' + nama);
+    alert('makanan favorit kamu apa ya aku mau tau, itu sehat apa nggak.');
+    alert('jadi nanti masukkan aja nama makanan nya ya!');
+    var makanan = prompt('masukkan nama makanan \ncontoh: nasi, telur, susu, pizza, dan cola.');
+
+    switch (makanan) {
+      case 'nasi':
+      case 'telur':
+        alert(nama + ' ternyata kamu suka makan ' + makanan + ' itu termasuk sehat loh!');
+        break;
+
+      case 'pizza':
+      case 'hamburger':
+        alert(nama + ' ckckck! mulai sekarang kamu kurangin makan ' + makanan + ' yaa! itu nggak sehat tau!');
+        break;
+
+      default:
+        alert('bukan termasuk kategori makanan mananpun!');
+        break;
+    }
+  </script>
+</body>
+
+</html>
