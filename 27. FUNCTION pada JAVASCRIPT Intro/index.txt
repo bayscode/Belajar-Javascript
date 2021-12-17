@@ -1,0 +1,77 @@
+Function
+--------
+=> Kunci utama pada javascript, yang membuat javascript sangat powerfull.
+-------------------------------------------------------------------------
+Defenisi Function :
+^ Sebuah sub program/sub routine yang dapat dipanggil di bagian lain pada program.
+^ Merupakan struktur dasar pembentuk dari javascript.(fundamental building block)
+^ disebut juga sebagai prosedur(kumpulan statement untuk melakukan tugas atau menghitung sebuah nilai).
+
+? Sebuah fungsi dibuat untuk melakukan tugas tertentu atau mengkalkulasi nilai tertentu.
+^ Untuk dapat menggunakannya harus 'membuat' terlebih dahulu function tersebut lalu memanggilnya.
+^ Termasuk kedalam first object class
+
+Kenapa Function ?
+-----------------
+^ Reusability (DRY : Do Not Yourself) atau penggunaan kembali dari kode yang sudah dibuat.
+^ Dekomposisi atau abstraksi : untuk menyembunyikan kompleksitas dari program yang dibuat
+^ Modularitas
+
+2 Kategori Function berdasarkan pembuatannya :
+- Built in function (Function yang sudah dibuat oleh javascript)
+- User-defined function (Function yang dibuat sendiri)
+
+~ Built in function
+^ fungsi yang sudah disediakan/'dibuat' oleh javascript
+^ Tinggal memanggilnya-Nya saja.
+
+*Built in function string
+- charAt(), slice(), split(), toString(), toLowerCase(), toUpperCase(),...
+
+?charAt ini fungsinya untuk mengetahui ada karakter apa di dalam sebuah string.
+? Javascript selalu memulai index dari 0
+
+*Built in function mengetahui
+- sin(), cos(), tan(), random, round(), floor(), ceil(), log() ...
+
+User Defined Function
+---------------------
+^ Fungsi yang kita buat sendiri
+^ Menggunakan keyword function
+^ Nama function (optional)
+^ Parameter/Argument (bahan baku untuk sebuah function) yang bisa digunakan dalam sebuah function
+- disimpan didalam (), setelah menuliskan nama function
+- boleh ada atau tidak, jika ada boleh lebih dari satu.
+- dan jika lebih dari satu dipisahkan dengan koma(,).
+^ Function body, 'dibungkus' dengan {} (yang didalam kurung kurawal berisi kumpulan statement)
+^ dapat mengembalikkan nilai return atau tidak
+
+
+* Membuat user-defined function
+^ dengan deklarasi/function declaration
+^ dengan ekspresi/function expression
+
+
+* Function declaration
+----------------------
+function jumlahDuaBilangan(a,b){
+  var total;
+  total = a+b;
+
+  return total;
+}
+?Parameter boleh ada, boleh tidak kalau tidak ada () <-harus tetap ditulis - lalu return nya boleh ada dan tidak ada.
+
+
+* Function expression
+--------------------
+var jumlahDuaBilangan = function(a,b){
+  var total;
+  total = a+b;
+
+  return total;
+}
+
+Memanggil/menjalankan function
+-> cukup dengan memanggil nama function dengan diikutin dengan().
+=> Alert(jumlahDuaBilangan(2,6));
