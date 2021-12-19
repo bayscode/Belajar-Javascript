@@ -1,0 +1,19 @@
+Parameter dan Argument
+----------------------
+|=> Material atau bahan baku yang bisa digunakan dalam function.
+
+^ Parameter 
+=> Variabel yang ditulis didalam kurung pada saat function dibuat, digunakan untuk menampung nilai yang dikirimkan saat function dipanggil.
+
+^ Argument
+=> Nilai yang dikirmkan ke parameter saat fungsi dipanggil.
+
+?Bagaimana jika parameter dan argument nya tidak sesuai?
+-Jika parameternya lebih sedikit dari argument maka argument kelebihannya akan diabaikan sebaliknya.
+
+-Jika parameter lebih banyak dari argument, maka parameter kelebihannya akan disi dengan nilai undefined(nilai default)
+
+* Sebuah variabel khusus
+|=> arguments = array yang berisi nilai yang dikirimkan saat fungsi dipanggil.
+
+| Secara default itu ada, ini disebutnya pseudo variabel(variabel semu) variabel yang kayaknya ga keliatan tapi sebetulnya ada, bentuknya adalah array.
