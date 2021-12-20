@@ -1,0 +1,11 @@
+Penulisan menjadi lebih efesien meerupakan salah satu bagian konsep yang dinamakan refactoring.
+
+- Apa itu refactoring? sebuah proses mengubah kode agar menjadi lebih baik tanpa mengubah fungsionalitasnya.
+
+Kenapa refactoring?
+-------------------
+^ Readibility atau keterbacaan atau kemudahan dalam membaca kode program
+^ DRY(Don't Repeat Yourself)
+^ Testability(Penulisan kode agar lebih mudah saat nantinya dilakukan pengujian)
+^ Performance(Bagaimana menulis kode yang dapat meningkatkan performasi dari program)
+^ Maintainability(Yaitu bagaimana program dapat dengan mudah dikelola atau dikembangkan)
