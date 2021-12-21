@@ -1,0 +1,10 @@
+Function pada javascript : Variable Scope
+|=> Scope(lingkup variabel)
+    |=> Bagaimana sebuah variabel dapat diakses dalam program.
+
+?Dalam sebuah pemrograman ada dua jenis scope :
+- Block Scope dan Function Scope
+
+!Javascript menggunakan konsep function scope
+
+?Name conflict : dimana kita punya dua buah variabel yang namanya sama tapi scopenya berbeda
