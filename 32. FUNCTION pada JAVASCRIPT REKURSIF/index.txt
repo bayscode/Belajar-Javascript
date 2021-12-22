@@ -1,0 +1,7 @@
+Function pada javascript : Rekursif/Rekursi/Recursion
+=> Sebuah fungsi yang memanggil dirinya sendiri.
+
+=> Kondisi berhentinya disebut Base Case
+|=> Kondisi akhir dari rekursif yang menghasilkan nilai
+
+?Rekursif(Semua looping bisa dibuat rekursif, tapi tidak sebaliknya.)
