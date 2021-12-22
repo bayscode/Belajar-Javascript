@@ -1,0 +1,19 @@
+Function Declaration VS Function Expression
+
+- Function Declaration
+|=> Function Identifier (ParameterList opt) { Function Body }
+
+- Function Expression
+|=> Function Identifier opt (ParameterList opt) {Function Body}
+
+Perbedaanya?
+^ Function Declaration
+- Lebih fleksibel(dapat ditulis dimanapun)
+|=> - Karena konsep hosting(dimana deklarasi sebuah function pasti disimpan terlebih dahulu didalam memori)
+    - Mudah dipahami
+
+^ Function Expression
+- Harus didefenisikan terlebih dahulu sebelum dipanggil
+- Lebih powerfull
+|=> - Sebagai closure
+    - IIFE(Immediately Invoked Function Expression)
