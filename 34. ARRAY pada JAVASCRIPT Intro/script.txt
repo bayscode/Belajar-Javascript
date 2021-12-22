@@ -1,0 +1,52 @@
+Array pada Javascript
+|=> Array secara umum : susunan sistematis dari banyak objek" yang serupa
+
+Array secara Programming
+|=> Tipe data yang digunakan untuk mendeksripsikan kumpulan elemen(nilai atau variabel), yang tiap" elemennya memiliki index
+
+Array
+-----
+|=> Array adalah variabel yang lebih sakti => Karena bisa menampung lebih dari satu nilai.
+
+- Var hari = ['senin','selasa','rabu'];
+
+Kenapa Array
+------------
+- Mempermudah pengelolaan nilai/value/data
+|=> Penelusuran dan Pencarian
+- Manajemen Memori
+
+Array : 
+^ itu bisa disebut juga variabel jamak, yang mempunyai banyak elemen dan diacu nama yang sama.
+^ Kumpulan pasangan key dan nilai/key and value pair.
+^ Key adalah index pada array dengan tipe integer yang dimulai dengan 0
+^ Array pada javascript bertipe object
+^ Array pada javascript memiliki fungsi/method length untuk menghitung jumlah elemen di dalamnya
+^ Elemen pada array boleh memiliki tipe data yang berbeda
+
+Key and Value(elemen) Pair
+|=> ex : var hewan = ['kucing','kelinci','monyet','panda','koala','sapi']:
+
+atau
+
+var hewan = [];
+hewan = ['kucing','kelinci','monyet','panda','koala','sapi'];
+
+* Tidak ada tipe array di javascript yang ada adalah object yang namanya object punya fungsi di dalamnya, fungsi yang ada didalam object disebut method.
+
+Elemen pada array boleh beda tipe :
+var hari = ['senin','selasa','rabu'];
+var angka = [13,01,2000];
+var myArr = [13,'januari',true];
+
+ex : var myFunc = function(){
+  alert('hi');
+}
+
+var myArr2 = [13,'januari',true,myFunc];
+
+va myArr3 = [13,'januari',true,myFunc,[02,06,99]];
+|=> Array multidimensi(array bersarang) dimana array didalalam Array
+Bagaimana cara mencetak angka 02?
+console.log(myArr3[4][0])
+- Liat index terluarnya dulu
