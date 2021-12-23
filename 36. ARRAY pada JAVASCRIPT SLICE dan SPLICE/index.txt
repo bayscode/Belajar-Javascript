@@ -1,0 +1,11 @@
+Rangkuman
+---------
+=> Push : mendorong masuk
+=> Pop : memecahkan atau menghilangkan
+=> Shift : mengeluarkan atau menggeser keluar
+=> Unshift : menggeser kedalam
+
+- Slice itu menggiris arraynya(jadi ini digunakan ketika ingin mengambil beberapa bagian pada aray untuk menjadi aray yang baru)
+- Splice artinya menyambung atau menambah(bisa menyisipkan sebuah elemen ditengah" menggunakan Splice)
+
+* Hati" splice menghasilkan array baru, jadi harus ditampung dengan array baru. Array yang lama, itu masih bisa tetap diakses.
