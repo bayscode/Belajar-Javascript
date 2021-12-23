@@ -1,0 +1,29 @@
+Array pada javascript : Manipulasi Array
+- Manipulasi Array
+|=> ^ Menambah elemen pada Array 
+    ^ Menghapus elemen pada Array
+    ^ Menampilkan elemen pada Array
+
+Array pada method
+- Length = ini untuk mengetahui berapa jumlah elemen yang ada pada Array
+
+- Join = yang menggabungkan seluruh isi array dan mengubahnya menjadi sebuah string
+* Method itu adalah function yang ada di dalam sebuah object.
+
+- Push, Pop, Unshift, Shift => digunakan untuk menambah, menghapus elemen pada array
+
+^ Push : digunakan untuk menambah elemen array di akhir arraynya.
+- push = mendorong atau memasukkan elemen baru di akhir array
+
+^ Pop : menghilangkan elemen terakhir dari sebuah array
+- pop = elemen terakhir seolah" pecah(hilang)
+
+  untuk push bisa ditambahkan langsung beberapa elemen
+  myArr.push('Muhamad','Iqbal');
+
+  kalo pop dia satu"
+
+* Unshift dan Shift => sama persis dengan push dan pop tapi unshift dan shift ini dia bekerja untuk elemen pertama pada array
+
+^ Unshift : menambahkan elemen baru diawal array
+^ Shift : menghilangan elemen pertama di array
