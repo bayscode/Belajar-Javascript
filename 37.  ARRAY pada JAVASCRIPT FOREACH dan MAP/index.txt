@@ -1,0 +1,5 @@
+Array pada javascript : forEach dan map
+|=> method ini digunakan untuk melakukan looping pada array dengan menggunakan kedua method ini bisa melakukan sesuatu pada elemen" yang ada didalam array secara otomatis.
+
+- Map menggembalikkan array, sedangkan forEach tidak.
+- Sort untuk mengurutkan isi arraynya.
