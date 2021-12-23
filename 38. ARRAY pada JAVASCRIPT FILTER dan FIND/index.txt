@@ -1,0 +1,5 @@
+  Array pada javascript : Filter dan Find
+  => untuk mencari elemen pada array. tapi hati" ada perbedaannya Find itu mengembalikkan 1 nilai, sedangkan filter bisa mengembalikkan banyak nilai.
+
+  - Filter itu fungsinya untuk mencari nilai pada array dan mengembalikannya pada bentuk array.
+  - Kalo find dia hanya menemukan satu nilai aja sedangkan filter bisa mencari banyak nilai.
