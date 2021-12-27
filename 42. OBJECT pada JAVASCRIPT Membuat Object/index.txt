@@ -1,0 +1,14 @@
+Object pada javascript
+- Array itu kumpulan nilai dan index
+
+- Object itu kumpulan nilai yang memiliki nama
+- Object adalah array yang lebih sakti
+
+- Variabel yang ada didalam object disebut properti
+- Variabel yang ada didalam object kita sebut method
+
+- 4 Metode pembuatan object
+^ Object Literal
+^ Function Declaration
+^ Constructor Function
+^ Object.create()
